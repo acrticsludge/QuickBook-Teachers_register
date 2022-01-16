@@ -5,4 +5,9 @@ QuickBook is a simple to use program that will store your students mark record o
 **Instructions**
 1. Create the local database to store your marks. Instructions to create a local database can be found here https://github.com/acrticsludge/SQLITE-Database
 2. Create a new package named TeacherRegister and drop all the files in the package.
-3. Run Create.java
+3. Run Create.java.
+4. Run CreateStudentTable.java.
+5. Run MarksMain and start using QuickBook!
+
+**You're all set!**
+
