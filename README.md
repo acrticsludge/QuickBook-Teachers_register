@@ -15,3 +15,5 @@ QuickBook is a simple to use program that will store your students mark record o
 2. Attendance storage.
 3. Percentage calculator (of all or single subject). https://github.com/acrticsludge/Percentage-calc
 
+*releases will be published as I embed the code for a new feature, last edited by acrticsludge on 16/01/2022 at 16:56 PM (4:56 PM).*
+
