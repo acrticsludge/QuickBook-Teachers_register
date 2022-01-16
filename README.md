@@ -8,6 +8,10 @@ QuickBook is a simple to use program that will store your students mark record o
 3. Run Create.java.
 4. Run CreateStudentTable.java.
 5. Run MarksMain and start using QuickBook!
-
 **You're all set!**
+
+**Planned features:**
+1. Multi subject storage.
+2. Attendance storage.
+3. Percentage calculator (of all or single subject). https://github.com/acrticsludge/Percentage-calc
 
