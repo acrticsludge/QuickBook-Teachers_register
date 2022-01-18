@@ -1,6 +1,6 @@
 # Quick Book the ultimate teachers register.
 
-QuickBook is a simple to use program that will store your students mark record on a local database. This program is in the early stages and will be updated as new features hit my mind.
+QuickBook is a simple to use program that will store your students mark record on a local database. This program is in the early stages and will be updated as new features hit my mind. Wiki coming soon!https://github.com/acrticsludge/QuickBook-Teachers_register/wiki
 
 **Instructions**
 1. Create the local database to store your marks. Instructions to create a local database can be found here https://github.com/acrticsludge/SQLITE-Database
