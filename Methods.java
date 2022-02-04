@@ -81,6 +81,13 @@ public class Methods {
             System.out.println("RollNo\tName\tMarks");	
             appprint3.selectAll();
         	break;
+	
+	case 6:
+        	System.out.println("Enter the RollNo of the student you want to caclulate the percentage of:");
+        	int perroll = scp.nextInt();
+        	Percentage per = new Percentage();
+        	per.select(perroll);
+        	break;
         	
         default:
         	System.out.println("*\t*\t*\t*\t*\t  ERROR PLEASE TRY AGAIN   \t*\t*\t*\t*\t*");
